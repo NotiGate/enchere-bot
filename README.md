@@ -1,4 +1,4 @@
-# enchere-bot
+# Bot d'enchère
 Bot enchère pour Discord
 
 ## Installation
