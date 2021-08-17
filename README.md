@@ -1,5 +1,5 @@
 # enchere-bot
-Bot enchere pour Discord
+Bot enchère pour Discord
 
 ## Installation
 
