@@ -24,5 +24,8 @@ npm install discord.js@12.5.3
 .close <ID_ENCHERE>
 ```
 
+## Contribution
+Si vous trouvez un bug, merci de le signaler, c'est une première version, des bugs peuvent être présents.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
